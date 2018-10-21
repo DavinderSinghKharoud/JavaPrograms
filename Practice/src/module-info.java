@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author God
+ *
+ */
+module practice {
+}
